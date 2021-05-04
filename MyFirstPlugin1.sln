@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstPlugin1", "MyFirstPlugin1\MyFirstPlugin1.csproj", "{888DB8B5-AD95-467B-B6A0-AF0999C01672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{888DB8B5-AD95-467B-B6A0-AF0999C01672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888DB8B5-AD95-467B-B6A0-AF0999C01672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888DB8B5-AD95-467B-B6A0-AF0999C01672}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{888DB8B5-AD95-467B-B6A0-AF0999C01672}.Debug|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
