@@ -1,4 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CtorchPlugin_005CCNSPlugin_005CCNS_005FPlugin_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CtorchPlugin_005Ccw_005CGaragePlugin_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CtorchPlugin_005Ctorch_002Dserver_005CDedicatedServer64_005CVRage_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CtorchPlugin_005Ctorch_002Dserver_005CNLog_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CtorchPlugin_005Ctorch_002Dserver_005CTorch_002EAPI_002Edll/@EntryIndexedValue">True</s:Boolean>
@@ -10,4 +12,6 @@
   &lt;Assembly Path="D:\torchPlugin\torch-server\Torch.API.dll" /&gt;&#xD;
   &lt;Assembly Path="D:\torchPlugin\torch-server\Torch.Server.exe" /&gt;&#xD;
   &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Core.dll" /&gt;&#xD;
+  &lt;Assembly Path="D:\torchPlugin\cw\GaragePlugin.dll" /&gt;&#xD;
+  &lt;Assembly Path="D:\torchPlugin\CNSPlugin\CNS_Plugin.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

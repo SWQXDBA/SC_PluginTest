@@ -33,6 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CNS_Plugin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\torchPlugin\CNSPlugin\CNS_Plugin.dll</HintPath>
+    </Reference>
+    <Reference Include="GaragePlugin, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\torchPlugin\cw\GaragePlugin.dll</HintPath>
+    </Reference>
     <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c">
       <HintPath>D:\torchPlugin\torch-server\NLog.dll</HintPath>
     </Reference>

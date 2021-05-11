@@ -1,4 +1,5 @@
 ﻿
+using System.Runtime.Remoting.Contexts;
 using NLog;
 using NLog.Fluent;
 using Torch;
@@ -6,18 +7,13 @@ using Torch.API;
 using Torch.Commands;
 using Torch.Commands.Permissions;
 using VRage.Game.ModAPI;
+using VRage.Game;
+using VRage.Game.Definitions.SessionComponents;
 
 namespace MyFirstPlugin1 {
-    [Category("torch")]
+    [Category("infos")]
     public class TestCommands : CommandModule {
-
-      //  public TestPlugin Plugin => (TestPlugin) Context.Plugin;
-
-        [Command("test", "This is a Test Command.")]
-        [Permission(MyPromoteLevel.Moderator)]
-        public void Test() {
-            Context.Respond("This is a Test from "+ Context.Player);
-        }
+        
         [Command("getid", "This is a Test Command.")]
         [Permission(MyPromoteLevel.Moderator)]
         public void Test2() {

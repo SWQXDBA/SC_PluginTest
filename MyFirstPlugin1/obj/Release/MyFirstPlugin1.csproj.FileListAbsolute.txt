@@ -49,3 +49,4 @@ C:\Users\SWQXDBA2\RiderProjects\MyFirstPlugin1\MyFirstPlugin1\bin\Release\SixLab
 C:\Users\SWQXDBA2\RiderProjects\MyFirstPlugin1\MyFirstPlugin1\bin\Release\VRage.XmlSerializers.dll
 C:\Users\SWQXDBA2\RiderProjects\MyFirstPlugin1\MyFirstPlugin1\bin\Release\VRage.Game.XmlSerializers.dll
 C:\Users\SWQXDBA2\RiderProjects\MyFirstPlugin1\MyFirstPlugin1\bin\Release\VRage.Math.XmlSerializers.dll
+C:\Users\SWQXDBA2\RiderProjects\MyFirstPlugin1\MyFirstPlugin1\bin\Release\CNS_Plugin.dll
